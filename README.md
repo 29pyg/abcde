@@ -12,8 +12,8 @@ https://nomadcoders.co/react-for-beginners
 알아서 만들어 지는 src파일에서 App.js / App.css / index.js / index.css만 남기고 삭제함
 
 
-App.js에서 초기 코드 정리는 아래와 같음
-'''
+##App.js에서 초기 코드 정리는 아래와 같음
+```
 import './App.css';
 
 function App() {
@@ -24,11 +24,11 @@ function App() {
 }
 
 export default App;
-'''
+```
 
 
-index.js에서 초기 코드 정리는 아래와 같음
-'''
+##index.js에서 초기 코드 정리는 아래와 같음
+```
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -39,4 +39,4 @@ root.render(
     <App />,
   document.getElementById('root')
 );
-'''
+```
