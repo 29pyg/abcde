@@ -2,7 +2,7 @@
 
 마크다운도 쓸줄 모른다. 메모장 용도로 쓰면서 시작
 
-맘대로 만들어둔 폴더를 vscode로 들어가서 npx creeate-react-app 원하는파일명(나의경우 board)를 치면 만들어줌
+맘대로 만들어둔 폴더를 vscode로 들어가서 npx creeate-react-app 원하는 파일명(나의경우 board)를 치면 만들어줌
 
 기본 세팅을 뭐 해야하는것 같은데 
 https://nomadcoders.co/react-for-beginners
