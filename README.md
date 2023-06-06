@@ -4,6 +4,7 @@
 
 기본 세팅을 뭐 해야하는것 같은데 
 https://nomadcoders.co/react-for-beginners
+
 여기에서 #5의 Introduction에서 폴더명?짓는거 부터 천천히 배운다.
 
 
