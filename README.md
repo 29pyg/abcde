@@ -7,6 +7,11 @@ https://nomadcoders.co/react-for-beginners
 
 여기에서 #5의 Introduction에서 폴더명?짓는거 부터 천천히 배운다.
 
+npx create-react-app board 맨 마지막의 board가 폴더명이다.
+
+터미널에서 vscode로 실행하려면 code board(폴더명)을 한다.
+
+
 
 그냥 이거 따라 한번 하고 만들기 시작하는게 좋은듯 하다. 포맷하고 다시 시작하고 싶네 뭐 이상하걸 너무 많이 받았어..
 
