@@ -27,6 +27,7 @@ export default App;
 ```
 
 
+
 **index.js에서 초기 코드 정리는 아래와 같음**
 ```
 import React from 'react';
