@@ -69,3 +69,13 @@ root.render(
 </body>
 </html>
 ```
+
+
+(li>a)*5  를 입력하면  아래와 같이 출력된다 이거 신기함
+```
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+```
