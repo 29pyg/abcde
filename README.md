@@ -54,7 +54,7 @@ root.render(
 ```
 
 
-**html파일의 경우 !Tab을 누르면 자동으로 아래의 코드가 작성된다
+**html파일의 경우 !Tab을 누르면 자동으로 아래의 코드가 작성된다**
 ```
 <!DOCTYPE html>
 <html lang="en">
