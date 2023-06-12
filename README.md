@@ -15,7 +15,7 @@ npx create-react-app board 맨 마지막의 board가 폴더명이다.
 
 그럴땐 경로를 cmd 창에다 code (경로) 하고 붙여서 경로 오류는 해결했다.
 
-내 경로 C:\Windows\System32\board
+내 경로 C:\Windows\System32/projects/board
 
 
 
