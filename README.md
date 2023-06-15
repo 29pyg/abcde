@@ -78,3 +78,21 @@ root.render(
         <li><a href=""></a></li>
         <li><a href=""></a></li>
 ```
+
+
+
+style component를 다운받으려면
+
+
+yarn add styled-components 혹은 npm install styled-components 입력
+
+
+하지만 나는 아래의 문제가 발생해서
+```
+npm ERR! Cannot read properties of null (reading 'edgesOut')
+```
+
+아래의 코드로 다운받았다.
+```
+npm install styled-components@5.3.10
+```
